@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Extremois&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Extremois's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Extremois&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="Extremois's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extremois&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Extremois's Top Languages" />
 </p>
 
